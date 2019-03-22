@@ -2,7 +2,7 @@
 
 This project is a BLE application in wich we use the Bluetooth functoinality to control a RC car
 
-![alt text](hhttps://raw.githubusercontent.com/TacirOzdemir/BLE-Remote-Controlled-Car/master/Foto.jpg)
+![alt text](https://raw.githubusercontent.com/TacirOzdemir/BLE-Remote-Controlled-Car/master/Foto.jpg)
 
 ### Flowchart
 
