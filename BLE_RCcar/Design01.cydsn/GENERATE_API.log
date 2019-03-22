@@ -1,0 +1,17 @@
+--------------- Build Started: 12/06/2017 15:22:51 Project: Design01, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\Tacir_laptop\AppData\Local\Cypress Semiconductor\PSoC Creator\4.1" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\Design01.cyprj -d CY8C4247LQI-BL483 -s C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: sdb.M0025: error: No input on Instance "Left_Pin", terminal "y_0".
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_233)
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Shape_18.2)
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_233)
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Shape_18.2)
+ADD: sdb.M0025: error: No input on Instance "Reverse_Pin", terminal "y_0".
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_231)
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Shape_16.2)
+ADD: sdb.M0050: error: Terminal "y_0" requires connection when it is visible.
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Signal: Net_231)
+ * C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE_RCcar2\Design01.cydsn\TopDesign\TopDesign.cysch (Shape_16.2)
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Build Failed: 12/06/2017 15:22:55 ---------------

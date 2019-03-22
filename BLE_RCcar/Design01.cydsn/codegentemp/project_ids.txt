@@ -1,0 +1,6 @@
+C:\Users\Tacir_laptop\Desktop\School\Microcontrollers\Project\BLE Auto file\BLE_RCcar\Design01.cydsn\Design01.cyprj|e8bb104c-b1aa-4796-919b-78c9441119fc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|67940ceb-ee34-49e1-acb1-315bf206edec
+C:\Users\Tacir_laptop\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|d79dbab4-06ca-4e63-9d7f-8b8273c9d3c8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|375f4da3-87c5-41d8-9a6e-a0be3ef2617a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|9ad6f886-0de5-4abe-9e7c-e462e139cc32
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|301439d7-d901-4393-a299-6e278ac7c957
